@@ -1,12 +1,12 @@
 public class Variables {
     public static void main(String[] args) {
-        byte numCores = 6; //кол-во ядер
-        short ram = 12; //оперативная память Гб
-        int bitRate = 500; //скорость интернета
+        byte numCores = 6;
+        short ram = 12;
+        int bitRate = 500;
         long serialNum = 49026347234l;
 
-        float freqCPU = 3.2f; //частота
-        double buildNum = 120.221235300d; //номер сборки
+        float freqCPU = 3.2f;
+        double buildNum = 120.221235300d;
 
         char discName = 'D';
 
